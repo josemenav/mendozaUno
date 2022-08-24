@@ -1,4 +1,7 @@
+#include "hello_world.h"
+
 int main(void)
 {
-  return 0;
+    simple_hello();
+    return 0;
 }
